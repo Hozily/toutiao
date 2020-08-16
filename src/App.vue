@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view />
+    <router-view />12312412看看干坏事了
   </div>
 </template>
 
